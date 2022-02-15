@@ -1,0 +1,8 @@
+:root {
+    /*Cores*/
+    --titulo-normal-cor: #443d3d;
+    --titulo-destaque-cor: #1d314c;
+
+    --titulo-normal-fonte: 'lato',sans-serif;
+    --titulo-destaque-fonte: 'Playfair Display', serif;
+}
