@@ -1,0 +1,31 @@
+.principal {
+    margin: 8% 0 6%;
+}
+
+.titulo-principal {
+
+    font-family: var(--titulo-destaque-fonte);
+    font-weight: 700;
+
+    color: var(--titulo-destaque-cor);
+
+    margin-bottom: 0.35rem;
+
+    font-size: 3.8em;
+    line-height: 1.05;
+    letter-spacing: -.015rem;
+
+    margin: 0.67em 0;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.titulo-principal--2 {
+    font-size: 1.5em;
+}

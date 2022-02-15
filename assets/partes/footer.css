@@ -1,0 +1,11 @@
+.container-contato {
+    display: flex;
+    flex-direction: column;
+
+    font-size: .9em;
+}
+
+.menu__menor {
+    font-family: 'inconsolata';
+    margin: 0;
+}
