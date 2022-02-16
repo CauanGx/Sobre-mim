@@ -39,22 +39,7 @@
     border-bottom: 2.5px solid #FF6F61;
 }
 
-a::before {
-    content: '';
-    display: block;
-    width: 100%;
-    height: 4px;
-    background-color: var(--link-hover);
-    position: absolute;
-    left: 0;
-    bottom: -0.5px;
-    transform-origin: left;
-    transform: scale(0);
-    transition: transform .2s linear;
-
-}
-
-.github-icon {
+.icone {
     margin-bottom: 13px;
     margin-right: 10px;
 

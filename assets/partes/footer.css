@@ -9,3 +9,11 @@
     font-family: 'inconsolata';
     margin: 0;
 }
+
+.rodape::before {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 3px;
+    background-color: #2e747a;
+}
