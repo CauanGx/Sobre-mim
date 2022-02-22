@@ -1,0 +1,86 @@
+.icone{
+    margin-bottom: 4px;
+}
+.contato-titulo {
+    margin: 1.25em 0 1em;
+    font-family: 'lato',sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: .073em;
+    line-height: 1.05;
+    opacity: .75;
+}
+
+.titulo__principal--contato{
+    font-size: 2em;
+}
+
+.cartao {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    gap: 3rem;
+
+}
+
+.texto__cartao {
+    font-size: .9em;
+    font-weight: 300;
+}
+
+.cartao__formulario .cartao__item label {
+    display: block;
+}
+
+.cartao__item--titulo {
+    color: #2e747a;
+    font-weight: 700;
+}
+
+.cartao__titulo--input {
+    width: 100%;
+    padding: 4px 8px;
+    font-size: .9em;
+    background: #e5dfde;
+    color: #443d3d;
+    border: none;
+    border-bottom: 1px solid #2e747a;
+    transition: all .2s ease-in;
+}
+
+.cartao__social__container {
+    display: flex;
+    align-items: baseline;
+}
+
+.cartao__social__rede {
+    margin-right: 0.5em;
+}
+
+.cartao__social__handle {
+    margin-top: 8px;
+    margin-left: 16px;
+    font-size: 0.8em;;
+}
+
+.link--instagram {
+    color: #2e747a;
+    text-decoration: none;
+}
+
+.botao--submit {
+    margin-top: 10px;
+    font-size: inherit;
+    padding: 0.35em 0.75em;
+    border: none;
+    background-color: #2e747a;
+    color: white;
+}
+
+.botao--submit:hover {
+    cursor: pointer;
+}
+
+
+/*<i class="fab fa-instagram fa-lg icone-insta"></i>*/
